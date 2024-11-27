@@ -10,6 +10,8 @@ Step 4:
 copy and paste this command:
 cd ReactNativeTemplete
 Step 5:
+npm install
+Step 6:
 npm start
 
 
